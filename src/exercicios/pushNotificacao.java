@@ -1,4 +1,10 @@
 package exercicios;
 
 public class pushNotificacao {
+    @Override
+    public void enviar(String mensagem) {
+        System.out.println("Enviando Push Notification: " + mensagem);
+    }
 }
+
+
