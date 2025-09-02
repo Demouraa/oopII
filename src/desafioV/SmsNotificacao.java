@@ -1,4 +1,4 @@
-package exercicios;
+package desafioV;
 
 public class SmsNotificacao {
     @Override

@@ -1,4 +1,4 @@
-package exercicios;
+package desafioV;
 
 public class GerenciadorDeNotificadores {
     private List<Notificacao> notificadores;
